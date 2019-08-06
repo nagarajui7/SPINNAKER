@@ -1,0 +1,6 @@
+#Steps:
+1. open this url: https://github.com/googlecloudplatform/spinnaker-for-gcp
+
+#Execute below commands:
+1. PROJECT_ID=spinnker-gcp ~/spinnaker-for-gcp/scripts/install/setup_properties.sh
+2. ~/spinnaker-for-gcp/scripts/install/setup.sh
